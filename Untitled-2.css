@@ -7,7 +7,7 @@
   min-height: 100vh;
   width: 222vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.575)),
-    url(images/dark-1845065_1920.jpg);
+    url(dark-1845065_1920.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -137,7 +137,7 @@ nav img {
       rgba(235, 217, 57, 0.822),
       rgba(235, 217, 57, 0.822)
     ),
-    url(images/yellow-1845394_1920.jpg);
+    url(yellow-1845394_1920.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
